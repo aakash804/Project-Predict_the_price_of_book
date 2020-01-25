@@ -10,11 +10,19 @@ Size of test set: 1560 records
 FEATURES:
 
 Title: The title of the book
+
 Author: The author(s) of the book.
+
 Edition: The edition of the book eg (Paperback,– Import, 26 Apr 2018)
+
 Reviews: The customer reviews about the book
+
 Ratings: The customer ratings of the book
+
 Synopsis: The synopsis of the book
+
 Genre: The genre the book belongs to
+
 BookCategory: The department the book is usually available at.
+
 Price: The price of the book (Target variable)
